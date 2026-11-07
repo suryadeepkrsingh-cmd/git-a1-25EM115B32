@@ -1,0 +1,6 @@
+﻿fd2f1ee Add answers to assignment 1 scenario questions
+f2aed7c Rename menu to canteen-menu and delete legacy price sheet
+0330722 Add legacy price sheet
+83810a7 Add .gitignore for log files and environment variables
+3bda7be Update samosa price and add patties and cold coffee
+70c55e6 Add initial canteen menu
